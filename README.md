@@ -19,11 +19,10 @@ The hardware and materials needed to run this project are:
 ## Developer Tools
 
 - Dependencies are manages using [ASDF](https://asdf-vm.com/)
-- IDE used is [VSCode](https://code.visualstudio.com/), but the [ThonnyIDE](https://thonny.org/) could be used for MicroPython as well.
+- IDE used is the [ThonnyIDE](https://thonny.org/)
 
 ## References
 
 - [Tutorial for setting up the base hardware](https://antonsmindstorms.com/2022/11/18/lms-esp32-tutorials-part-0-how-to-get-started/)
 - [Tutorial on controlling NeoPixel LEDs](https://antonsmindstorms.com/2022/11/18/lms-esp32-video-tutorial-part-2-controlling-an-led-circular-matrix/)
 - [Schematic for wiring NeoPixel LED strips](https://learn.adafruit.com/neopixel-bracelet/circuit-diagram)
-- [Setup Development environment](https://github.com/pycom/pymakr-vsc/blob/HEAD/GET_STARTED.md)
