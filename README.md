@@ -26,3 +26,4 @@ The hardware and materials needed to run this project are:
 - [Tutorial for setting up the base hardware](https://antonsmindstorms.com/2022/11/18/lms-esp32-tutorials-part-0-how-to-get-started/)
 - [Tutorial on controlling NeoPixel LEDs](https://antonsmindstorms.com/2022/11/18/lms-esp32-video-tutorial-part-2-controlling-an-led-circular-matrix/)
 - [Schematic for wiring NeoPixel LED strips](https://learn.adafruit.com/neopixel-bracelet/circuit-diagram)
+- [NeoPixel MicroPython documentation](https://docs.micropython.org/en/latest/esp8266/tutorial/neopixel.html)
